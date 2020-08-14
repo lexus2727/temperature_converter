@@ -1,0 +1,86 @@
+body {
+    background-color: pink;
+    background: -webkit-linear-gradient(to left, #9a232d, hsl(35, 100%, 50%));
+    background: linear-gradient(to left, #9a2d23, #ff9300);
+}
+
+#container {
+  height: 525px;
+  width: 360px;
+  margin: 100px auto;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  background: white;
+  -webkit-border-radius: 20px;
+
+}
+
+  
+
+h1{
+  background-color: #cc0099;
+  padding-left: 15px;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  color: white;
+ 
+}
+
+/*form {
+  width: 60%;
+  padding: 5px 5px 8px 8px;
+  margin-left:50px;
+} */
+
+p {
+    padding-left: 20px;
+  }
+  
+  form input[type="text"] {
+    width= 90px;
+    
+  }
+  
+  input {
+    padding-left: 20px;
+    
+  }
+
+  #celsius {
+    margin-left: 20px;
+  }
+
+  #fahrenheit {
+      margin-left: 20px;
+  }
+
+  #kelvin {
+      margin-left: 20px;
+  }
+  
+  
+
+
+
+#button {
+  text-transform: uppercase;
+  font-weight: bold;
+  display: block;
+  border: none;
+  background-color: #cc0099;
+  border-radius: 5px;
+  width: 200px;
+  height: 50px;
+  font-size: 17px;
+  color: white;
+  margin-left: 20px;
+  
+  }
+ 
+  button:hover{
+    background:#846775;
+
+}
+
+
+

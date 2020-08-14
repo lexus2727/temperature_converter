@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/temperature_converter/static/js/main.882e1394.chunk.js",
+    "main.js.map": "/temperature_converter/static/js/main.882e1394.chunk.js.map",
+    "runtime-main.js": "/temperature_converter/static/js/runtime-main.8bab2081.js",
+    "runtime-main.js.map": "/temperature_converter/static/js/runtime-main.8bab2081.js.map",
+    "index.html": "/temperature_converter/index.html",
+    "precache-manifest.a2828202ece15bd3e52e41b32a1836be.js": "/temperature_converter/precache-manifest.a2828202ece15bd3e52e41b32a1836be.js",
+    "service-worker.js": "/temperature_converter/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bab2081.js",
+    "static/js/main.882e1394.chunk.js"
+  ]
+}
